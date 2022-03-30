@@ -1,5 +1,5 @@
 # Shortest-Time-Between-Entries
-This program reads user entries from the text file that are line separated. The program reads these entries and finds the shortest time between them and displays it.
+This program reads user entries from the text file that are line separated. The program then finds the shortest time between them and displays it.
 
 ## Dependencies
 
